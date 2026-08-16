@@ -1,3 +1,9 @@
+> **This repo is archived.** `@domandigital/seo` now lives in the
+> [dd-packages](https://github.com/Doman-Digital/dd-packages) monorepo, at
+> [`packages/seo`](https://github.com/Doman-Digital/dd-packages/tree/main/packages/seo).
+> Open issues and PRs there. This repo's history was preserved via subtree
+> merge; its own commits and tags stay here for reference.
+
 # @domandigital/seo
 
 Route-fact primitives shared across Doman Digital and client properties:
